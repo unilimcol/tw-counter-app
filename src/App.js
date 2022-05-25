@@ -7,7 +7,7 @@ function App() {
   }
 
   return (
-    <main className="container w-full h-screen bg-slate-300 flex justify-center items-center">
+    <main className="w-full h-screen bg-slate-300 flex justify-center items-center">
       <Card/>
     </main>
   );
