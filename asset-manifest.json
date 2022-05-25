@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tw-counter-app/static/css/main.82a23908.css",
+    "main.js": "/tw-counter-app/static/js/main.62866977.js",
+    "index.html": "/tw-counter-app/index.html",
+    "main.82a23908.css.map": "/tw-counter-app/static/css/main.82a23908.css.map",
+    "main.62866977.js.map": "/tw-counter-app/static/js/main.62866977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a23908.css",
+    "static/js/main.62866977.js"
+  ]
+}
